@@ -77,3 +77,5 @@ Pivot-table-based charts
 Fully interactive Bike Sales Dashboard
 
 Insights that connect demographics to purchasing decision
+
+## Dashboard
