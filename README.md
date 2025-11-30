@@ -1,3 +1,6 @@
+# Introduction
+This project focuses on a complete data analysis and visualization workflow executed entirely within Microsoft Excel. The goal was to take raw customer data, clean it, analyze key demographics, and build an interactive dashboard to explore factors influencing bicycle purchasing decisions
+
 ## Dataset Used
 - <a href="https://github.com/mprotiti/bike-sales-data-analysis/blob/main/Bike%20Sales%20Data.xlsx">Dataset
 
@@ -79,3 +82,4 @@ Fully interactive Bike Sales Dashboard
 Insights that connect demographics to purchasing decision
 
 ## Dashboard
+- <a href="https://github.com/mprotiti/bike-sales-data-analysis/blob/main/Bike%20Sales%20Analysis%20Project.xlsx">Bike Sales Dashboard 
