@@ -1,3 +1,7 @@
+## Dataset Used
+- <a href="https://github.com/mprotiti/bike-sales-data-analysis/blob/main/Bike%20Sales%20Data.xlsx">Dataset
+
+
 # Core Methodology & Key Tasks
 
 ## 1. Data Preparation & Cleaning
